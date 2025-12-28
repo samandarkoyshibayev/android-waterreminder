@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">WaterReminder</string>
+    <string name="enter_details">Enter your details</string>
+    <string name="personal_information">Personal Information</string>
+    <string name="enter_firstname">Enter your firstname</string>
+    <string name="enter_lastname">Enter your lastname</string>
+    <string name="continue_button">Continue</string>
+    <string name="my_profile">My Profile</string>
+    <string name="body_metrics">Body Metrics</string>
+    <string name="male">male</string>
+    <string name="female">female</string>
+    <string name="unknown">unknown</string>
+    <string name="years_old">years old</string>
+    <string name="daily_routine">Daily Routine</string>
+    <string name="wake_up_time">Wake Up Time</string>
+    <string name="sleep_time">Sleep Time</string>
+    <string name="weight">Weight</string>
+    <string name="height">Height</string>
+    <string name="height_format">cm</string>
+    <string name="weight_format">kg</string>
+    <string name="todays_overview">Today\'s Overview</string>
+    <string name="track_health_metrics">Track your health metrics</string>
+    <string name="water_intake">Water Intake</string>
+    <string name="heart_rate">Heart Rate</string>
+    <string name="steps">Steps</string>
+    <string name="bmi">BMI</string>
+    <string name="calories_burned">Calories Burned</string>
+    <string name="weekly_activity">Weekly Activity</string>
+    <string name="last_7_days">Last 7 Days</string>
+    <string name="bmi_underweight">Underweight</string>
+    <string name="bmi_normal">Normal</string>
+    <string name="bmi_overweight">Overweight</string>
+    <string name="bmi_obese">Obese</string>
+    <string name="of">of</string>
+    <string name="l_unit">L</string>
+    <string name="today">today</string>
+    <string name="kcal_unit">kcal</string>
+    <string name="avg">Avg</string>
+    <string name="completion">completion</string>
+    <string name="no_data_yet">No data yet</string>
+    <string name="start_tracking_water">Start tracking your water intake</string>
+</resources>

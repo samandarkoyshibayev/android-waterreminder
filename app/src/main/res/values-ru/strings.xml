@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="enter_details">Введите свои данные</string>
+    <string name="personal_information">Личная информация</string>
+    <string name="enter_firstname">Введите имя</string>
+    <string name="enter_lastname">Введите фамилию</string>
+    <string name="continue_button">Продолжить</string>
+    <string name="my_profile">Мой профиль</string>
+    <string name="body_metrics">Параметры тела</string>
+    <string name="male">мужчина</string>
+    <string name="female">женщина</string>
+    <string name="unknown">неизвестно</string>
+    <string name="years_old">лет</string>
+    <string name="daily_routine">Режим дня</string>
+    <string name="wake_up_time">Время пробуждения</string>
+    <string name="sleep_time">Время сна</string>
+    <string name="weight">Вес</string>
+    <string name="height">Рост</string>
+    <string name="height_format">см</string>
+    <string name="weight_format">кг</string>
+    <string name="todays_overview">Обзор на сегодня</string>
+    <string name="track_health_metrics">Отслеживайте показатели здоровья</string>
+    <string name="water_intake">Потребление воды</string>
+    <string name="heart_rate">Частота сердечных сокращений</string>
+    <string name="steps">Шаги</string>
+    <string name="bmi">ИМТ</string>
+    <string name="calories_burned">Калории</string>
+    <string name="weekly_activity">Еженедельная активность</string>
+    <string name="last_7_days">За 7 дней</string>
+    <string name="bmi_underweight">Недовес</string>
+    <string name="bmi_normal">Нормальный</string>
+    <string name="bmi_overweight">Избыточный вес</string>
+    <string name="bmi_obese">Ожирение</string>
+    <string name="of">из</string>
+    <string name="l_unit">л</string>
+    <string name="today">сегодня</string>
+    <string name="kcal_unit">ккал</string>
+    <string name="avg">Среднее</string>
+    <string name="completion">выполнение</string>
+    <string name="no_data_yet">Данные отсутствуют</string>
+    <string name="start_tracking_water">Начните отслеживать потребление воды</string>
+</resources>

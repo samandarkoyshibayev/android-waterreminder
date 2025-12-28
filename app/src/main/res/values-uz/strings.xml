@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="enter_details">Maʼlumotlaringizni kiriting</string>
+    <string name="personal_information">Shaxsiy maʼlumotlar</string>
+    <string name="enter_firstname">Ismingizni kiriting</string>
+    <string name="enter_lastname">Familiyangizni kiriting</string>
+    <string name="continue_button">Davom etish</string>
+    <string name="my_profile">Mening profilim</string>
+    <string name="body_metrics">Tana ko‘rsatkichlari</string>
+    <string name="male">erkak</string>
+    <string name="female">ayol</string>
+    <string name="unknown">noma\'lum</string>
+    <string name="years_old">yoshda</string>
+    <string name="daily_routine">Kundalik tartib</string>
+    <string name="wake_up_time">Uyg‘onish vaqti</string>
+    <string name="sleep_time">Uxlash vaqti</string>
+    <string name="weight">Vazn</string>
+    <string name="height">Bo‘y</string>
+    <string name="height_format">sm</string>
+    <string name="weight_format">kg</string>
+    <string name="todays_overview">Bugungi umumiy ko\'rinish</string>
+    <string name="track_health_metrics">Sog\'liq ko\'rsatkichlarini kuzating</string>
+    <string name="water_intake">Suv iste\'moli</string>
+    <string name="heart_rate">Yurak urishi</string>
+    <string name="steps">Qadamlar</string>
+    <string name="bmi">BMI</string>
+    <string name="calories_burned">Yoqilgan kaloriya</string>
+    <string name="weekly_activity">Haftalik faoliyat</string>
+    <string name="last_7_days">So\'nggi 7 kun</string>
+    <string name="bmi_underweight">Ortiqcha ozg\'in</string>
+    <string name="bmi_normal">Normal</string>
+    <string name="bmi_overweight">Ortiqcha vazn</string>
+    <string name="bmi_obese">Semizlik</string>
+    <string name="of">dan</string>
+    <string name="l_unit">L</string>
+    <string name="today">bugun</string>
+    <string name="kcal_unit">kcal</string>
+    <string name="avg">O\'rtacha</string>
+    <string name="completion">bajarildi</string>
+    <string name="no_data_yet">Hozircha ma\'lumot yo\'q</string>
+    <string name="start_tracking_water">Suv iste\'molini kuzatishni boshlang</string>
+</resources>
